@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CitiQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="answer_true"> True </string>
+    <string name="answer_false"> False </string>
+    <string name="next_question">Next</string>
+
+    <string name="question_pledge"> Francis Bellamy, who composed the pledge in 1892, was a Baptist minister and a socialist. </string>
+    <string name="quesiton_flag"> The flag of the United States has 13 stripes to represent the original 13 colonies.</string>
+    <string name="question_decl">The Declaration of Independence was not signed on July 4, 1776.</string>
+    <string name="question_prcl"> The Emancipation Proclamation ended WWI </string>
+    <string name="question_abr">Abraham Lincoln, author of the emancipation, is entombed at the Lincoln Memorial in Washington.</string>
+    <string name="question_demo"> The word democracy does not appear in the Constitution. </string>
+    <string name="question_quote"> Thomas Jefferson said "Give me liberty or give me death."</string>
+    <string name="question_req"> All of the following are requirements to become president of the U.S:
+
+    Must be a natural born U.S. citizen.
+    Must be at least 35 years old by the time he/she will serve.
+    Must have served at least one term in the Senate.
+    Must have lived in the united states for at least 14 years. </string>
+    <string name="question_stripes"> There are 50 stripes on the united states flag</string>
+
+    <string name="toast_pledge"> Francis Julius Bellamys pledge The Pledge was published on September 8, 1892 and immediately put to use.</string>
+    <string name="toast_flag"> In the end the thirteen colonies were: Delaware, Pennsylvania, New Jersey, Georgia, Connecticut, Massachusetts Bay, Maryland,
+        South Carolina, New Hampshire, Virginia, New York, North Carolina, and Rhode Island and Providence Plantations.</string>
+    <string name="toast_decl"> Then at war with Great Britain, the 13 colonies regarded themselves as thirteen newly independent sovereign states,
+        and no longer a part of the British Empire.</string>
+    <string name="toast_prcl"> President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, as the nation approached its third year of bloody civil war.
+        The proclamation declared "that all persons held as slaves" within the rebellious states "are, and henceforward shall be free."</string>
+    <string name="toast_abr"> Lincoln warned the South in his Inaugural Address: "In your hands,
+        my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war.</string>
+    <string name="toast_demo">Democracy definition. A system of government in which power is vested in the
+        people, who rule either directly or through freely elected representatives.</string>
+    <string name="toast_quote">"Give me liberty, or give me death!" is a quotation attributed
+        to Patrick Henry from a speech he made to the Virginia Convention in 1775</string>
+    <string name="toast_req">There is no Senate requirement</string>
+    <string name="toast_stripes">There are 50 stars on the flag!</string>
+
+
+
+</resources>
